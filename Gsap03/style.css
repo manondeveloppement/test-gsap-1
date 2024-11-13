@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(6, 6, 6);
+  color: rgb(13, 13, 13);
+}
+
+header {
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 8rem;
+  text-align: center;
+}
+
+p {
+  padding: 2rem;
+  font-size: 4rem;
+  color: white;
+}
